@@ -1,0 +1,3 @@
+[submodule "training-bootcamp2021-ml"]
+	path = training-bootcamp2021-ml
+	url = https://github.com/northeastern-rc/training-bootcamp2021-ml
