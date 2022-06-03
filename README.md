@@ -1,7 +1,6 @@
 # ML on Discovery
 This repository contains material for ML on Discovery
-training modules. The sub-folders are based on the date the
-training session was conducted.
+training modules.
 
 ## What's in each training sub-folder?
 * Training PowerPoint slides
