@@ -43,7 +43,7 @@ cd pytorch_imagenet
 cp /work/bootcamp/ml_training/pytorch_imagenet/create_data.sh .
 cp /work/bootcamp/ml_training/pytorch_imagenet/main.py .
 python main.py --help
-python main.py --arch resnet18 --batch 2048 --pretrained --evaluate /work/bootcamp/ml_training/pytorch_imagenet/imagenet_untar/
+python main.py --arch resnet18 --batch 1048 --pretrained --evaluate /work/bootcamp/ml_training/pytorch_imagenet/imagenet_untar/
 conda deactivate
 exit
 
